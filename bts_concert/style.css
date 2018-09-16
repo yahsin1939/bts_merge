@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    text-emphasis-color: skyblue;
+    background-size: cover;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    front-size: 10 em;
+    background-color:aliceblue;
+}
+
+td{
+    border-bottom: 1px solid pink ;
+    padding:inherit;
+    break-after: auto;
+    
+}
+th{
+    border: 5px ;
+    background-color:pink;
+   
+}
+h1{
+    front-size:20 px
+}
